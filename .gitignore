@@ -111,3 +111,7 @@ mlartifacts/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# AI Agents Instructions
+.claude/
