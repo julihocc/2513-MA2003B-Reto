@@ -115,3 +115,6 @@ mlartifacts/
 
 # AI Agents Instructions
 .claude/
+
+# VSCode Outputs
+.history/
