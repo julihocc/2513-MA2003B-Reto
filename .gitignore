@@ -115,6 +115,9 @@ mlartifacts/
 
 # AI Agents Instructions
 .claude/
+.github/
+CLAUDE.md 
+GEMINI.md
 
 # VSCode Outputs
 .history/
